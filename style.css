@@ -1,0 +1,307 @@
+.header1 img{
+    width: 110px;
+    border-radius: 10px;
+    margin-left: 10x;
+}
+.header1{
+    display: flex;
+    justify-content: space-between;
+    
+}
+nav{
+    margin-right: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+
+    
+}
+nav a{
+    color: black;
+    text-decoration: none;
+
+}
+header{
+    background-color: rgba(232, 114, 4, 0.406);
+}
+.sect-1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 12px;
+
+}
+.div-1 img{
+    max-width: 620px ;
+    margin-top: 30px;
+    height: 100vh
+  }
+
+.chang{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 1080px;
+    margin: auto;
+}
+h1{
+    color: orangered;
+    display: flex;
+    text-align:center ;
+}
+
+
+.bout{
+    display: flex;
+    gap: 15px;
+    justify-content: center
+
+}
+.bout a{
+    color: black;
+    text-decoration: none;
+    padding: 12px;
+    background-color: rgba(232, 114, 4, 0.406);
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+
+    
+    
+
+    }
+.promesses img{
+    width: 650px;
+    height: 500px;
+}
+.promesses{
+    display: flex;
+    line-height: 90px;
+
+}
+h2{
+    color: orangered;
+    text-align: center;
+}
+.archi{
+    display: flex;
+    flex-direction: column;
+line-height:    100px;
+
+}
+.archi a{
+    text-decoration: none;
+    margin:  0px auto;
+    color: grey;
+    padding: 5px 5px;
+    margin-left: 25px;
+    background-color: brown;
+    .promesses{
+        justify-content: space-between;
+    }
+    
+        
+
+    
+    
+     
+     
+     
+     .sect-2 a{
+        text-decoration: none;
+        padding: 10px;
+        background-color: rgba(0, 0, 0, 0.381);
+        color: black;
+        border-radius: 8px;
+     }
+     
+ }
+ .sect-2 h3{
+    text-align: center;
+    margin: 0px;
+ }
+ .sect-2 img{
+    width: 560px;
+ }
+
+ .sect-2 a{
+    text-decoration: none;
+    padding: 10px 10px;
+     background-color: rgba(232, 114, 4, 0.406);
+    color: black;
+    border-radius: 5px;
+ }
+ article{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+ }
+.iml img{
+    width: 500px;
+}
+.tout{
+    display: flex;
+    gap: 60px;
+}
+.Reral{
+    line-height: 15px;
+    justify-content: center;
+    text-align: center;
+
+}
+.Reral h3{
+    text-align: center;
+    line-height: 15px;
+    margin-top: 30px;
+
+}
+.Reral p{
+    text-align: center;
+    margin-top: 40px;
+    line-height: 30px;
+    
+     }
+     .sect-3 img{
+        width: 500px;
+     }
+     .div3{
+        display: flex;
+        gap: 60px;
+     }
+     .clas{
+        margin-bottom: 30px;
+        text-align: center;
+        line-height: 20px;
+     }
+     .clas h3{
+        text-align: center;
+        margin-top: 100px;
+        line-height: 20px;
+     }
+     .clas p{
+        text-align: center;
+        margin-bottom: 80px;
+     }
+     .sect-4 img{
+        width: 500px;
+     }
+     .glob{
+        display: flex;
+        flex-direction: row;
+     }
+     .sect-4{
+        display: flex;
+        gap: 60px;
+     }
+     .t-par h3{
+        margin-top: 100px;
+     }
+     
+     
+     
+     
+     .t-par{
+        gap: 30px;
+        margin-left: 30px;
+     .set h2{
+        color: black;
+     }
+    
+     
+
+     P{
+        font-size: 20px;
+
+
+         font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+     }
+     h2{
+        font-size: 40px;
+     }
+     
+     
+     
+     
+     
+    }
+    .card{
+        width: 330px;
+    }
+    
+    .card img{
+        width: 100%;
+    }
+.flex-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.container2{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+}
+
+.Cardre{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    width: 200px;
+    align-items: center;
+
+
+ }
+ .former{
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    width:450px;
+    
+ }
+ .boutton{
+    color: black; 
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    width: 60px;
+    border-radius: 5px;
+    margin-bottom:  4px;
+}
+.flex-wrapper a{
+    text-decoration: none;
+     background-color: rgba(232, 114, 4, 0.406);
+    color: black;
+    padding: 9px 17px;
+    border-radius: 10px;
+}
+.h1{ 
+    font-size: 80px;
+
+ font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+ }
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 60px;
+}
+h3{
+font-size: 30px;
+}
+h2{
+     
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
